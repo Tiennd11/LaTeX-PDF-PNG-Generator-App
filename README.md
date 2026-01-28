@@ -1,9 +1,7 @@
 # LaTeX PDF Generator
 
 A lightweight Windows desktop application for generating vector PDFs and PNGs from LaTeX math equations. Perfect for importing into graphic design software like Affinity Designer 2, Adobe Illustrator, or any vector graphics editor.
-
-![[Pasted image 20260128161850.png]]
-
+![[Latex PDF Generator Window.png]]
 ## ✨ Features
 
 - **Clean GUI Interface**: Simple Tkinter-based interface for easy LaTeX input
@@ -297,6 +295,3 @@ It helps others discover this project.
 
 ---
 
-**Built with ❤️ for the LaTeX & Design community**
-
-*Generate beautiful math equations for your design projects!*
