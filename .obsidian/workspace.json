@@ -11,14 +11,12 @@
             "id": "eaad7c86e45328d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Demo-App.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "Demo-App"
             }
           }
         ]
@@ -183,11 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "eaad7c86e45328d9",
+  "active": "f2862fed8ca15c67",
   "lastOpenFiles": [
-    "Pasted image 20260128163434.png",
-    "Latex PDF Generator Window.png",
     "README.md",
+    "Demo-App.png",
+    "Latex PDF Generator Window.png",
     "Pasted image 20260128161850.png",
     "QUICKSTART.md",
     "READY_FOR_GITHUB.md"
