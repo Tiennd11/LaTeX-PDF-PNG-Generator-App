@@ -180,7 +180,7 @@ class LatexGUI:
     
     def __init__(self, root):
         self.root = root
-        self.root.title("LaTeX PDF Generator (KLaTeX Replacement)")
+        self.root.title("LaTeX PDF Generator")
         self.root.geometry("900x850")
         self.root.resizable(True, True)
         
